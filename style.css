@@ -4,13 +4,14 @@ body {
     font-family: 'Slabo 27px', serif;
 }
 
-body p {
+p {
     color: gray;
     line-height: 25px;
 }
 
-body h1 {
+h1 {
     font-size: 40px;
+    margin: 0;
 }
 
 .header {
